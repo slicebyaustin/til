@@ -3,6 +3,7 @@
 things i learn, one line at a time. mostly so i stop forgetting.
 
 ## log
+- **2026-05-06** — git commit --fixup + rebase --autosquash = free history cleanup
 - **2026-02-14** — css :has() is basically a parent selector now and nobody told me
 - **2025-12-19** — ss -tlnp is way faster than lsof for "whats on this port"
 - **2025-11-08** — python dicts keep insertion order since 3.7, stop reaching for OrderedDict
