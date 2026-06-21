@@ -3,6 +3,7 @@
 things i learn, one line at a time. mostly so i stop forgetting.
 
 ## log
+- **2026-06-21** — JSON.stringify takes a replacer arg, been writing my own redactor like a clown
 - **2026-05-06** — git commit --fixup + rebase --autosquash = free history cleanup
 - **2026-02-14** — css :has() is basically a parent selector now and nobody told me
 - **2025-12-19** — ss -tlnp is way faster than lsof for "whats on this port"
