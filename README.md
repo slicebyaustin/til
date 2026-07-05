@@ -3,6 +3,7 @@
 things i learn, one line at a time. mostly so i stop forgetting.
 
 ## log
+- **2026-07-05** — git's `--no-ff` flag forces a merge commit even when fast-forward is possible, preserving branch history in the log
 - **2026-07-04** — python threading.Event is way cleaner than a while-loop + sleep for stop signals
 - **2026-06-21** — JSON.stringify takes a replacer arg, been writing my own redactor like a clown
 - **2026-05-06** — git commit --fixup + rebase --autosquash = free history cleanup
