@@ -3,6 +3,7 @@
 things i learn, one line at a time. mostly so i stop forgetting.
 
 ## log
+- **2026-07-08** — git stash applies cleanly even when you're mid-rebase, just remember to pop it after resolving conflicts
 - **2026-07-07** — git's `--stat` flag shows files changed and lines added/deleted per commit without showing the full diff
 - **2026-07-05** — git's `--no-ff` flag forces a merge commit even when fast-forward is possible, preserving branch history in the log
 - **2026-07-04** — python threading.Event is way cleaner than a while-loop + sleep for stop signals
